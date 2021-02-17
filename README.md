@@ -36,6 +36,9 @@ https://www.kbparadise.com/v60type-r
 ## manual
 online pdf https://kupdf.net/download/kbp-v60-user-manual-_59c1659c08bbc5f82368700e_pdf
 backup on repo
+note: it mentions fn-return unlocks arrow keymode, marked by led at return.
+this doesnt work on my non led v60 type R
+backlight shortkeys obviously also don't work
 
 case
 reddit posts mentions v60 is easy to swap out case https://www.reddit.com/r/MechanicalKeyboards/comments/6h0tom/anne_pro_vs_kbparadise_v60/diul7fk?utm_source=share&utm_medium=web2x&context=3
