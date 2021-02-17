@@ -28,8 +28,12 @@ online backup on someones dropbox: https://www.dropbox.com/s/fov3y87rvondxy9/pro
 
 
 ## modify fn key virtually
-original post 2015 https://geekhack.org/index.php?topic=51069.350
-links to a AHK script and TouchCursor http://touchcursor.sourceforge.net/
+
+spacefn
+
+original post on spacefn concept 2015 https://geekhack.org/index.php?topic=51069.350
+use TouchCursor on windows http://touchcursor.sourceforge.net/
+TouchCursor releases on github https://github.com/martin-stone/touchcursor/releases
 
 # official website
 old website available on wayback machine
