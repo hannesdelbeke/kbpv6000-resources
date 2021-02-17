@@ -33,6 +33,10 @@ new website
 https://www.kbparadise.com/v60type-r
 ## Todo back this up in this repo
 
+## manual
+online pdf https://kupdf.net/download/kbp-v60-user-manual-_59c1659c08bbc5f82368700e_pdf
+backup on repo
+
 case
 reddit posts mentions v60 is easy to swap out case https://www.reddit.com/r/MechanicalKeyboards/comments/6h0tom/anne_pro_vs_kbparadise_v60/diul7fk?utm_source=share&utm_medium=web2x&context=3
 but a youtube video mentions that isn't the case because of the massive DIP switch on the back, making it incompatible with most cases
