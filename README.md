@@ -51,8 +51,28 @@ but a youtube video mentions that isn't the case because of the massive DIP swit
 
 - (QMK) A keymap for KBParadise v60 Type R (60 ANSI layout) https://github.com/aorfanos/effective_v60typer
 - (QMK) Custom layout for a Keyboard Paradise V60 https://github.com/paul-krohn/qmk-keyboard-layout
-- 
+- scripts for mac keyboards https://github.com/richdawe/mac-keyboards
 
+### via
+via https://github.com/the-via/keyboards
+releases https://github.com/the-via/releases/releases/tag/v1.3.1
+not much info on the repo
+see website: https://caniusevia.com/
+not much info on website either
+
+description:
+ it is an application that allows you to change the keys, lighting options and configure your QMK Keyboard instantly, without the necessity of flashing a hex file. With V1, we’ve added a bunch of new features including but not limited to, a keyboard/matrix tester, macro support, custom keycodes, configurable layouts and a mode for keyboard designers to test their integration.
+ 
+ see this reddit post for a img preview https://www.reddit.com/r/MechanicalKeyboards/comments/kzffd3/help_with_via/
+ 
+ tried it but doesn't work with current windows release (17/02/2021)
+ they have added kb paradise files in their repo though
+
+
+from what i understand VIA is build on top of QMK 
+
+QMK repo https://github.com/edwinclement08/qmk-firmware/tree/237dd23491cff3dc60df123a8992301bd1d8a9c8
+(13 days ago VIA support was added to QMK)
 
 # youtube reviews
 https://www.youtube.com/watch?v=8GbpDFgE6Mo
