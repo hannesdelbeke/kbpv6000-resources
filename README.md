@@ -63,6 +63,8 @@ not much info on website either
 description:
  it is an application that allows you to change the keys, lighting options and configure your QMK Keyboard instantly, without the necessity of flashing a hex file. With V1, we’ve added a bunch of new features including but not limited to, a keyboard/matrix tester, macro support, custom keycodes, configurable layouts and a mode for keyboard designers to test their integration.
  
+ Via is built on QMK. If your keyboard is on the caniusevia.com list, you’ll still need to have a VIA-compatible firmware loaded. It may or may not have one already, but you can download and flash it if it doesn’t. You can tell by just launching the Via software with the keyboard plugged in. it will detect your keyboard if it does. (plug directly in your pc instead of a USB hub)
+ 
  see this reddit post for a img preview https://www.reddit.com/r/MechanicalKeyboards/comments/kzffd3/help_with_via/
  
  tried it but doesn't work with current windows release (17/02/2021)
