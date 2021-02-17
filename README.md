@@ -23,6 +23,7 @@ when anyone says v60 Mattias, the mattias refers to the switches. same with v60 
 # TKG program guide for the v60 (2017) 
 (at the time of writing this, the keyboard is not fully supported by qmk.)
 http://www.bytesizedworkbench.com/blog/programming-the-kbparadise-v60-polestar-keyboard/
+added a pdf of this to the repo
 
 # website
 old website available on wayback machine
