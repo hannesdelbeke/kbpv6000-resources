@@ -26,6 +26,11 @@ http://www.bytesizedworkbench.com/blog/programming-the-kbparadise-v60-polestar-k
 added a pdf of this to the repo as backup
 online backup on someones dropbox: https://www.dropbox.com/s/fov3y87rvondxy9/programming%20the%20KBParadise%20V60%20polestar%20keyboard%20_%20ByteSizedWorkbench.pdf?dl=0
 
+
+## modify fn key virtually
+original post 2015 https://geekhack.org/index.php?topic=51069.350
+links to a AHK script and TouchCursor http://touchcursor.sourceforge.net/
+
 # official website
 old website available on wayback machine
 https://web.archive.org/web/20190919164709/http://www.kbp.com.tw/product.html
@@ -122,4 +127,7 @@ Cherry MX switch
 # other 
 would be cool if i can find some softwware that can visualise your current layers
 similar to this but triggered as an overlay on your pc using a shortkey http://waldobronchart.github.io/ShortcutMapper/#AdobePhotoshop
+
+
+
 
