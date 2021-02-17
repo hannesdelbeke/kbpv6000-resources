@@ -20,12 +20,13 @@ example:
 
 when anyone says v60 Mattias, the mattias refers to the switches. same with v60 cherry brown, or v60 khali blue
 
-# TKG program guide for the v60 (2017) 
+## TKG program guide for the v60 (2017) 
 (at the time of writing this, the keyboard is not fully supported by qmk.)
 http://www.bytesizedworkbench.com/blog/programming-the-kbparadise-v60-polestar-keyboard/
-added a pdf of this to the repo
+added a pdf of this to the repo as backup
+online backup on someones dropbox: https://www.dropbox.com/s/fov3y87rvondxy9/programming%20the%20KBParadise%20V60%20polestar%20keyboard%20_%20ByteSizedWorkbench.pdf?dl=0
 
-# website
+# official website
 old website available on wayback machine
 https://web.archive.org/web/20190919164709/http://www.kbp.com.tw/product.html
 
@@ -34,6 +35,8 @@ https://www.kbparadise.com/v60type-r
 ## Todo back this up in this repo
 
 ## manual
+
+## 2 page manual on key shortcuts 
 online pdf https://kupdf.net/download/kbp-v60-user-manual-_59c1659c08bbc5f82368700e_pdf
 backup on repo
 note: it mentions fn-return unlocks arrow keymode, marked by led at return.
@@ -59,6 +62,10 @@ https://www.youtube.com/results?search_query=kbparadise+v60
 - Anne Pro vs KBParadise v60? https://www.reddit.com/r/MechanicalKeyboards/comments/6h0tom/anne_pro_vs_kbparadise_v60/
 Is the KB paradise v60 any good? https://www.reddit.com/r/MechanicalKeyboards/comments/3uzdd6/helpis_the_kb_paradise_v60_any_good/
 Convince me of the benefits of a pok3r over a kbparadise v60 https://www.reddit.com/r/MechanicalKeyboards/comments/4ansst/convince_me_of_the_benefits_of_a_pok3r_over_a/
+KBP v6000 with Matias Quiet click new Work keyboard https://www.reddit.com/r/MechanicalKeyboards/comments/4egqaz/photoskbp_v6000_with_matias_quiet_click_new_work/
+
+reddit generic mechanical keyboard buying guide https://www.reddit.com/r/MechanicalKeyboards/wiki/buying_guide
+reddit generic mechanical keyboard wikki https://www.reddit.com/r/MechanicalKeyboards/wiki/index
 
 # specs for the standard black v60 without leds
 Default Keycaps: Primary: Black Pad Printed ABS with White legends
@@ -89,3 +96,8 @@ MCU controller ATMega32u4
 QMK - Fully Programmable open source (Not support PS4)
 standard ansi layout
 Cherry MX switch
+
+# other 
+would be cool if i can find some softwware that can visualise your current layers
+similar to this but triggered as an overlay on your pc using a shortkey http://waldobronchart.github.io/ShortcutMapper/#AdobePhotoshop
+
