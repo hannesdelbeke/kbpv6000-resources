@@ -66,6 +66,7 @@ virtually remap fn key to spacebar. hold spacebar + key will use spacebar as fn 
 - [original post on spacefn concept 2015](https://geekhack.org/index.php?topic=51069.350) 
 - use TouchCursor on windows, download [here](http://touchcursor.sourceforge.net/)
 - or here: [TouchCursor releases on github](https://github.com/martin-stone/touchcursor/releases)
+- created a touchcursor [config file](https://github.com/hannesdelbeke/kbpv6000-resources/tree/main/touchCursorSettings) for the default kbpv 60 
 
 # official Paradise website
 - old website available on [wayback machine](https://web.archive.org/web/20190919164709/http://www.kbp.com.tw/product.html): w w w.kbp.com.tw
