@@ -18,6 +18,13 @@ When anyone says v60 Mattias, the mattias refers to the switches. same with v60 
 
 # modify key mapping
 
+links
+- https://config.qmk.fm/#/v60_type_r/LAYOUT_60_ansi
+- https://tkg.io/ select fantastic60
+- http://www.keyboard-layout-editor.com/#/
+- https://kai.tkg.io/
+
+
 ## TKG program guide for the v60 (2017) 
 (at the time of writing this, the keyboard is not fully supported by qmk.)
 
@@ -89,7 +96,8 @@ TODO add source
 found these on github, not sure if they are usefull
 - (QMK) [A keymap for KBParadise v60 Type R (60 ANSI layout)](https://github.com/aorfanos/effective_v60typer)
 - (QMK) [Custom layout for a Keyboard Paradise V60](https://github.com/paul-krohn/qmk-keyboard-layout) 
-- [scripts for mac keyboards](https://github.com/richdawe/mac-keyboards) 
+- [mac scripts for mac keyboards including v60](https://github.com/richdawe/mac-keyboards) 
+- (TMK/QMK) [collection of firmware source files (not just v60)](https://github.com/njbair/keyboard_firmware)
 
 
 # youtube reviews
