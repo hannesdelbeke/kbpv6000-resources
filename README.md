@@ -34,23 +34,21 @@ links
 
 
 ## VIA
-- [via repo](https://github.com/the-via/keyboards) 
-- [git releases](https://github.com/the-via/releases/releases/tag/v1.3.1)
-- official website: https://caniusevia.com/
 
-not much info on the repo or the website so here is a description
-
-**description:**
+### description
  it is an application that allows you to change the keys, lighting options and configure your QMK Keyboard instantly, without the necessity of flashing a hex file. With V1, we’ve added a bunch of new features including but not limited to, a keyboard/matrix tester, macro support, custom keycodes, configurable layouts and a mode for keyboard designers to test their integration.
  
  Via is built on QMK. If your keyboard is on the caniusevia.com list, you’ll still need to have a VIA-compatible firmware loaded. It may or may not have one already, but you can download and flash it if it doesn’t. You can tell by just launching the Via software with the keyboard plugged in. it will detect your keyboard if it does. (plug directly in your pc instead of a USB hub)
  
- see this reddit post for a img preview https://www.reddit.com/r/MechanicalKeyboards/comments/kzffd3/help_with_via/
+ see [this reddit post](https://www.reddit.com/r/MechanicalKeyboards/comments/kzffd3/help_with_via/) for an img preview of via
  
- tried it but doesn't work with current windows release (17/02/2021)
- they have added kb paradise files in their repo though
+ Tried it but doesn't work with current windows release (17/02/2021)
+ they have added kb paradise files in their repo recently so assuming it will be supported in next release.
+ keyboard will also require updated firmware to support this. QMK added via support 13 days ago.
 
-from what i understand VIA is build on top of QMK 
+- [via repo](https://github.com/the-via/keyboards) 
+- [git releases](https://github.com/the-via/releases/releases/tag/v1.3.1)
+- official website: https://caniusevia.com/
 
 ## QMK
 
