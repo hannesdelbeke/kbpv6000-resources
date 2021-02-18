@@ -47,8 +47,9 @@ from what i understand VIA is build on top of QMK
 
 ## QMK
 
-QMK repo https://github.com/edwinclement08/qmk-firmware/tree/237dd23491cff3dc60df123a8992301bd1d8a9c8
+- QMK repo https://github.com/edwinclement08/qmk-firmware/tree/237dd23491cff3dc60df123a8992301bd1d8a9c8
 (13 days ago VIA support was added to QMK)
+- https://qmk.fm/
 
 ## modify fn key virtually
 
@@ -59,11 +60,9 @@ virtually remap fn key to spacebar. hold spacebar + key will use spacebar as fn 
 - or here: [TouchCursor releases on github](https://github.com/martin-stone/touchcursor/releases)
 
 # official Paradise website
-old website available on wayback machine: www.kbp.com.tw
-https://web.archive.org/web/20190919164709/http://www.kbp.com.tw/product.html
+- old website available on [wayback machine](https://web.archive.org/web/20190919164709/http://www.kbp.com.tw/product.html): w w w.kbp.com.tw
+- new website: https://www.kbparadise.com/v60type-r
 
-new website: www.kbparadise.com
-https://www.kbparadise.com/v60type-r
 **Todo create backup of this page in this repo**
 
 # Manuals
