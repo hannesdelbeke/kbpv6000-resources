@@ -24,19 +24,28 @@ links
 - http://www.keyboard-layout-editor.com/#/
 - https://kai.tkg.io/
 
+## hardware remapping
 
-## TKG program guide for the v60 (2017) 
+- TKG
+- QMK
+- VIA (requires firmware of keyboard to support) 
+
+### TKG program guide for the v60 (2017) 
 (at the time of writing this, the keyboard is not fully supported by qmk.)
 
 - [original blogpost](http://www.bytesizedworkbench.com/blog/programming-the-kbparadise-v60-polestar-keyboard/) 
 - backup pdf in this repo
 - [backup on someones dropbox](https://www.dropbox.com/s/fov3y87rvondxy9/programming%20the%20KBParadise%20V60%20polestar%20keyboard%20_%20ByteSizedWorkbench.pdf?dl=0)
 
+### QMK
 
-## VIA
+- QMK repo https://github.com/edwinclement08/qmk-firmware/tree/237dd23491cff3dc60df123a8992301bd1d8a9c8
+(13 days ago VIA support was added to QMK)
+- https://qmk.fm/
 
-### description
- it is an application that allows you to change the keys, lighting options and configure your QMK Keyboard instantly, without the necessity of flashing a hex file. With V1, we’ve added a bunch of new features including but not limited to, a keyboard/matrix tester, macro support, custom keycodes, configurable layouts and a mode for keyboard designers to test their integration.
+### VIA
+
+ Via is an application that allows you to change the keys, lighting options and configure your QMK Keyboard instantly, without the necessity of flashing a hex file. With V1, we’ve added a bunch of new features including but not limited to, a keyboard/matrix tester, macro support, custom keycodes, configurable layouts and a mode for keyboard designers to test their integration.
  
  Via is built on QMK. If your keyboard is on the caniusevia.com list, you’ll still need to have a VIA-compatible firmware loaded. It may or may not have one already, but you can download and flash it if it doesn’t. You can tell by just launching the Via software with the keyboard plugged in. it will detect your keyboard if it does. (plug directly in your pc instead of a USB hub)
  
@@ -49,12 +58,6 @@ links
 - [via repo](https://github.com/the-via/keyboards) 
 - [git releases](https://github.com/the-via/releases/releases/tag/v1.3.1)
 - official website: https://caniusevia.com/
-
-## QMK
-
-- QMK repo https://github.com/edwinclement08/qmk-firmware/tree/237dd23491cff3dc60df123a8992301bd1d8a9c8
-(13 days ago VIA support was added to QMK)
-- https://qmk.fm/
 
 ## modify fn key virtually
 
