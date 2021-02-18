@@ -10,14 +10,11 @@ guide and info on the kbparadise keyboard since i found it hard to find info whe
 - [V60 Type R Polestar](https://www.kbparadise.com/v60type-r) same as type R but with RGB underglow.
 - [V60the2](https://www.kbparadise.com/v60the2) unreleased (feb 2021)
 
-### jargon for casual keyboard-people
-When people say v60 they might mean any of the v60 versions with any of the switches.
+**note**
+When people discuss the v60 they might mean any of the v60 versions with any of the switches.
 There is a difference between models so try figure out what they are talking about.
-example:
-- v60 has dip switches on back
-- v60 type R has a reset button instead
 
-when anyone says v60 Mattias, the mattias refers to the switches. same with v60 cherry brown, or v60 khali blue
+When anyone says v60 Mattias, the mattias refers to the switches. same with v60 cherry brown, or v60 khali blue
 
 # modify key mapping
 
