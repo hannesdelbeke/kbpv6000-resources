@@ -1,6 +1,7 @@
 # kbpv6000-resources
 guide and info on the kbparadise keyboard since i found it hard to find info when i got mine.
-(resources for the kbp v6000 kb paradise v60 type R)
+
+(resources for the kbp v6000 kb Paradise v60 type R made in Taiwan)
 
 ## models
 
